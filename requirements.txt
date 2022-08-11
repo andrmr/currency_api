@@ -3,3 +3,4 @@ asyncache~=0.1.1
 cachetools~=5.2.0
 httpx~=0.23.0
 uvicorn~=0.18.2
+slowapi~=0.1.5
