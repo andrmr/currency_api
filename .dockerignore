@@ -1,3 +1,4 @@
 .dockerignore
 Dockerfile
 venv
+docker_build_and_push.sh
